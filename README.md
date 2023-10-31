@@ -29,3 +29,10 @@ However, the patients might encounter some difficulties during their stay that c
   <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Response%20rate.png?raw=true" alt="Over the years, the average response rate dropped from 30.84% to 22.74% in all states.">
 </p>
 
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Map.png?raw=true" alt="% of survey responses decrease from 2013 to 2022.">
+</p>
