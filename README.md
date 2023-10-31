@@ -15,9 +15,9 @@ The Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) su
 
 The relationship between the patients and the doctors is crucial for ensuring effective and safe care. For example, some patients may feel rushed or ignored by their doctors, or may not receive enough information or education about their condition or treatment options.
 
-The relationship between the patients and the nurses is also vital for ensuring quality and compassionate care. For example, some patients may experience delays or errors in receiving their medications, or may not receive adequate pain management or emotional support from their nurses.
+Patient care quality and compassion depend on patient-nurse interactions. However, some patients may receive delayed or incorrect medications, or inadequate pain management or emotional support from their nurses.
 
-The relationship between the patients and the hospital staff is important for ensuring a comfortable and safe environment. survey data most patients report positive experiences with the hospital staff’s responsiveness and cleanliness. Some patients may encounter long wait times or lack of availability of the hospital staff, or may be disturbed by noise or dirtiness in their surroundings.
+How patients and hospital staff interact is important for a comfortable and safe environment. Most patients say hospital staff respond and keep things clean, but some patients experience long wait times, staff shortages, or noise and dirt.
 
 The patients’ main goal is to receive high-quality care and to recover from their illness or injury. They want to be treated with respect and dignity by the hospital staff and to receive clear and timely information about their care plan. They also want to feel comfortable and safe in their hospital environment.
 
