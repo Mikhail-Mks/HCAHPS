@@ -22,3 +22,10 @@ The relationship between the patients and the hospital staff is important for en
 The patients’ main goal is to receive high-quality care and to recover from their illness or injury. They want to be treated with respect and dignity by the hospital staff and to receive clear and timely information about their care plan. They also want to feel comfortable and safe in their hospital environment.
 
 However, the patients might encounter some difficulties during their stay that could affect their satisfaction and outcomes. For example, they might experience pain or discomfort after surgery, they might have trouble sleeping due to noise or light in their room, they might have adverse reactions to some medications, or they might not receive adequate discharge instructions or follow-up care.
+
+---
+
+<p align="center">
+  <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Response%20rate.png?raw=true" alt="Over the years, the average response rate dropped from 30.84% to 22.74% in all states.">
+</p>
+
