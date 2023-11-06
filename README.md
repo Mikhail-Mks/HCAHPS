@@ -1,4 +1,4 @@
-W# Patient satisfaction survey analysis for hospitals 
+# Patient satisfaction survey analysis for hospitals 
 
 This project focused on National & state-level scores from 2013 to 2022 for the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey, a national, standardized survey of hospital patients about their experiences during a recent inpatient hospital stay.
 
@@ -25,14 +25,36 @@ However, the patients might encounter some difficulties during their stay that c
 
 ---
 
+Over a period of nine years, patients in 5,245 facilities across the nation have been questioned. However, we discover a significant obstacle: in 12.40% of these facilities, patients provided no responses, signaling a critical disconnect between patients and the healthcare system.
+
+The most alarming revelation is the decline in the average response rate over the years, dropping from a commendable 30.84% to a concerning 22.74% across all states.
+
+
 <p align="center">
   <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Response%20rate.png?raw=true" alt="Over the years, the average response rate dropped from 30.84% to 22.74% in all states.">
 </p>
 
 
+ This decline is visually depicted in a line graph, which paints a vivid picture of our character's struggle. Peaks and valleys in the graph represent the highs and lows of patient engagement, emphasizing the dramatic need for improvement.
 
----
+The most significant drop in response rate is observed in Utah and Idaho, with -15.72% and -12.27%, respectively, while South Dakota fared slightly better with only a -2.63% drop.
+
+The map displays how the decline in response rates is distributed across different states.
 
 <p align="center">
   <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Map.png?raw=true" alt="% of survey responses decrease from 2013 to 2022.">
 </p>
+
+When we delve into patient interactions with various hospital staff, the confrontation intensifies. Interaction with doctors shows positive responses in only four states: Alaska, Montana, South Dakota, and North Dakota. No changes are seen in Minnesota and Utah, while the rest of the states experience a decline. Generally, central and northern states perform better, but Maine stands out as the worst performer, especially in terms of cleanliness with an 11% decrease in performance.
+
+Interactions with hospital staff, while generally better, still present challenges. The information about symptoms and health problems provided after leaving the hospital is a significant concern. Although around 30% of states maintain consistent interaction levels, Western and Central states exhibit positive trends in their interactions with nurses, while Eastern states suffer a significant decline of up to 8%.
+
+It is important to note that this decline began in October 2019, marking a pivotal moment in our story, where our character faces increasing challenges.
+
+---
+The main area of concern identified through our discoveries centers around the provision of information about medications, the need for better understanding in doctor-patient interactions, and the urgency in reducing wait times.
+
+We can draw inspiration from top-performing states such as Alaska, North Dakota, and Montana. These states have smaller populations and lower population density, allowing for personalized and timely care. They have invested in healthcare infrastructure, workforce, and innovative approaches to address behavioral health needs.
+
+However, we must not forget the challenges faced by the worst-performing states, including New Hampshire, Arizona, and Maine. These states grapple with healthcare worker shortages, mental health service deficiencies, and challenges in expanding healthcare coverage and access.
+
