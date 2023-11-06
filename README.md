@@ -88,3 +88,6 @@ We can draw inspiration from top-performing states such as Alaska, North Dakota,
 
 However, we must not forget the challenges faced by the worst-performing states, including New Hampshire, Arizona, and Maine. These states grapple with healthcare worker shortages, mental health service deficiencies, and challenges in expanding healthcare coverage and access.
 
+---
+
+SQL Code could be found in this github repository: https://github.com/Mikhail-Mks/HCAHPS/blob/main/HCAPS.sql
