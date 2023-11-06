@@ -61,6 +61,7 @@ Interactions with hospital staff, while generally better, still present challeng
 
 It is important to note that this decline began in October 2019, marking a pivotal moment in our story, where our character faces increasing challenges.
 
+---
 ### Top-performing states:
 
 **Alaska** and **North Dakota** have a relatively small population and a low population density, which could make it easier for hospitals to provide personalised and timely care to their patients.
@@ -91,3 +92,4 @@ However, we must not forget the challenges faced by the worst-performing states,
 ---
 
 SQL Code could be found in this github repository: https://github.com/Mikhail-Mks/HCAHPS/blob/main/HCAPS.sql
+An interactive dashboard could be found here: https://www.novypro.com/project/patient-satisfaction-survey-analysis-for-hospitals
