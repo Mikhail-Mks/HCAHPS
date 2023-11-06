@@ -61,6 +61,26 @@ Interactions with hospital staff, while generally better, still present challeng
 
 It is important to note that this decline began in October 2019, marking a pivotal moment in our story, where our character faces increasing challenges.
 
+### Top-performing states:
+
+**Alaska** and **North Dakota** have a relatively small population and a low population density, which could make it easier for hospitals to provide personalised and timely care to their patients.
+
+**Alaska** and **North Dakota** have invested in improving their health care infrastructure and workforce, especially in rural areas. For example, Alaska has expanded its telehealth services and increased its number of primary care physicians. North Dakota has supported its critical access hospitals and referral centres and implemented a statewide trauma system.
+
+**Alaska** and **North Dakota** have adopted innovative and collaborative approaches to address the behavioural health needs of their residents, especially children and adolescents. For example, Alaska has launched a project to improve acute behavioural health services and coordinate care across the continuum. North Dakota has established a behavioural health division and a children’s cabinet to oversee and coordinate the delivery of behavioural health services.
+
+**Montana’s** hospitals received more federal funding and support to expand their services and capacity, especially in rural areas, under the Affordable Care Act 2. For example, Montana’s hospitals benefited from the Medicaid expansion, the Medicare rural hospital flexibility programmeme, and the community health centre programmeme.
+
+Montana’s hospitals participated in various initiatives and collaborations to enhance their performance and outcomes, such as the Montana Rural Healthcare Performance Improvement Network, the Montana Health Network, and the Montana Hospital Improvement Innovation Network.
+
+### Worst performing states:
+
+**New Hampshire**: New Hampshire has faced a shortage of health care workers, especially in rural areas, due to low wages, high turnover, and a lack of training opportunities. The state has also struggled to provide adequate mental health services, resulting in high rates of suicide, substance abuse, and homelessness among the population. A lawsuit alleges that the state psychiatric hospital has been poorly run, and neglect has hastened patient deaths. These factors may have affected the quality of care and patient satisfaction in New Hampshire hospitals.
+
+**Arizona**: The state has been criticised for its lack of transparency and accountability in reporting and investigating hospital errors and infections. These issues may have contributed to the decline in positive hospital responses in Arizona. The state also faced challenges in expanding its health care coverage and access, especially for low-income and uninsured residents, and in improving its health care quality and outcomes, especially for rural and Native American populations.
+
+**Maine**: Maine had a higher uninsured rate and lower access to care than the national average, according to a report by the Commonwealth Fund. The report also criticised Maine for its lack of progress in implementing the Affordable Care Act and expanding its Medicaid programme, which left many residents without affordable and comprehensive health insurance. However, the state also had some strengths in its health care system, such as its high rate of primary care providers, its low rate of hospital-acquired infections, and its participation in various initiatives and collaborations to enhance its performance and outcomes.
+
 ---
 The main area of concern identified through our discoveries centers around the provision of information about medications, the need for better understanding in doctor-patient interactions, and the urgency in reducing wait times.
 
