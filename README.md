@@ -45,7 +45,17 @@ The map displays how the decline in response rates is distributed across differe
   <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Map.png?raw=true" alt="% of survey responses decrease from 2013 to 2022.">
 </p>
 
-When we delve into patient interactions with various hospital staff, the confrontation intensifies. Interaction with doctors shows positive responses in only four states: Alaska, Montana, South Dakota, and North Dakota. No changes are seen in Minnesota and Utah, while the rest of the states experience a decline. Generally, central and northern states perform better, but Maine stands out as the worst performer, especially in terms of cleanliness with an 11% decrease in performance.
+If we look at response trends on a global level, we will see either no positive changes or a decline, especially in interaction with doctors and communication about medicine.
+
+<p align="center">
+  <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Roles.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Mikhail-Mks/HCAHPS/blob/main/Graphs/Question%20type.png">
+</p>
+
+Interaction with doctors shows positive responses in only four states: Alaska, Montana, South Dakota, and North Dakota. No changes are seen in Minnesota and Utah, while the rest of the states experience a decline. Generally, central and northern states perform better, but Maine stands out as the worst performer, especially in terms of cleanliness with an 11% decrease in performance.
 
 Interactions with hospital staff, while generally better, still present challenges. The information about symptoms and health problems provided after leaving the hospital is a significant concern. Although around 30% of states maintain consistent interaction levels, Western and Central states exhibit positive trends in their interactions with nurses, while Eastern states suffer a significant decline of up to 8%.
 
